@@ -28,6 +28,7 @@ Now Your Full app is Running on the port `http://localhost:5173/`
 Preview of Web app
 
 ![home](./1.png)
+## **Home Page**
 ![post](./2.png)
 
 ## **Post Page**
